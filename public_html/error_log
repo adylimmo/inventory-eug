@@ -1,0 +1,294 @@
+[03-Nov-2016 13:15:54 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:15:54 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(118): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Componen in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:15:57 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:15:57 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(118): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Componen in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:15:58 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:15:58 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(118): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Componen in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:16:00 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:16:00 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(118): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Componen in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:16:02 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:16:02 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(118): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Componen in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:17:10 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:17:10 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(118): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Componen in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:17:29 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:17:29 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(118): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Componen in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:17:30 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:17:30 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(118): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Componen in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:17:31 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:17:31 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(118): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Componen in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:17:46 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:17:46 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(118): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Componen in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:18:18 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:18:18 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(118): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Componen in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:18:20 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:18:20 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(118): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Componen in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:18:21 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:18:21 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(118): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Componen in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:18:22 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:18:22 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(118): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Componen in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:18:23 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:18:23 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(118): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Componen in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:18:28 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:18:28 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(118): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Componen in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:19:02 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:19:02 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(118): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Componen in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:19:04 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:19:04 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(118): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Componen in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:19:06 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:19:06 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(118): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Componen in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:19:24 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[03-Nov-2016 13:19:24 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home/voidincl/asetnegara/app/Exceptions/Handler.php:48
+Stack trace:
+#0 /home/voidincl/asetnegara/app/Exceptions/Handler.php(48): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/voidincl/...', 48, Array)
+#1 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#2 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(118): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Componen in /home/voidincl/asetnegara/app/Exceptions/Handler.php on line 48
+[04-Nov-2016 18:41:00 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/voidincl/asetnegara/routes/web.php on line 31
+[08-Nov-2016 06:37:41 UTC] PHP Fatal error:  Out of memory (allocated 2621440) (tried to allocate 12288 bytes) in /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php on line 160
+[08-Nov-2016 06:37:41 UTC] PHP Fatal error:  Out of memory (allocated 2621440) (tried to allocate 12288 bytes) in /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php on line 160
+[08-Nov-2016 06:37:41 UTC] PHP Fatal error:  Out of memory (allocated 2621440) (tried to allocate 12288 bytes) in /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php on line 160
+[08-Nov-2016 06:37:41 UTC] PHP Fatal error:  Out of memory (allocated 2621440) (tried to allocate 12288 bytes) in /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php on line 160
+[08-Nov-2016 06:37:41 UTC] PHP Fatal error:  Out of memory (allocated 2621440) (tried to allocate 12288 bytes) in /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php on line 160
+[07-Dec-2016 07:00:15 UTC] PHP Fatal error:  Out of memory (allocated 9961472) (tried to allocate 3072 bytes) in /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Auth/GuardHelpers.php on line 33
+[07-Dec-2016 07:00:15 UTC] PHP Fatal error:  Out of memory (allocated 10223616) (tried to allocate 103896 bytes) in /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 655
+[07-Dec-2016 07:00:15 UTC] PHP Fatal error:  Out of memory (allocated 10485760) (tried to allocate 197158 bytes) in /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 655
+[07-Dec-2016 07:00:15 UTC] PHP Fatal error:  Out of memory (allocated 12320768) (tried to allocate 933237 bytes) in /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 655
+[13-Dec-2016 01:12:25 UTC] PHP Fatal error:  Out of memory (allocated 3145728) (tried to allocate 3072 bytes) in /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Http/Request.php on line 172
+[13-Dec-2016 01:12:25 UTC] PHP Fatal error:  Out of memory (allocated 3145728) (tried to allocate 3072 bytes) in /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Http/Request.php on line 172
+[01-Jan-2017 11:36:09 UTC] PHP Fatal error:  Out of memory (allocated 4980736) (tried to allocate 3072 bytes) in /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 348
+[07-Jan-2017 13:35:51 UTC] PHP Fatal error:  Out of memory (allocated 2359296) (tried to allocate 3072 bytes) in /home/voidincl/asetnegara/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 982
